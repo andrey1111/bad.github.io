@@ -1,0 +1,22 @@
+html{
+	width:100%;
+}
+#button{
+	width:100px;
+	height:25px;
+	margin: 5px;
+	background-color: red;
+}
+#canv{
+	float:left;
+	/*width:600px;
+	height:750px;
+	border: 1px #444 solid;*/
+}
+#img-cont{
+	float:left;
+	margin-left:25px;
+	/*width:602px;
+	height:752px;
+	border: 1px #444 solid;*/
+}
